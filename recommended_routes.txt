@@ -1,0 +1,203 @@
+Recommended Backcountry Ski Routes
+Minimum Safety Score: 0.00
+
+Route: BerthoudPass
+Distance: 6.50 miles
+Elevation Gain: 2500 feet
+Difficulty: Moderate
+Snow Depth: 45 inches
+Avalanche Risk: 2
+Weather: Sunny
+Estimated Tour Time: 5.75 hours
+Safety Score: 0.75
+
+Route: LovelandPass
+Distance: 5.20 miles
+Elevation Gain: 2000 feet
+Difficulty: Easy
+Snow Depth: 60 inches
+Avalanche Risk: 1
+Weather: Sunny
+Estimated Tour Time: 4.60 hours
+Safety Score: 1.00
+
+Route: GraysPeak
+Distance: 8.10 miles
+Elevation Gain: 3100 feet
+Difficulty: Hard
+Snow Depth: 50 inches
+Avalanche Risk: 3
+Weather: Snow
+Estimated Tour Time: 7.15 hours
+Safety Score: 0.35
+
+Route: QuandaryPeak
+Distance: 7.00 miles
+Elevation Gain: 3000 feet
+Difficulty: Hard
+Snow Depth: 40 inches
+Avalanche Risk: 4
+Weather: Windy
+Estimated Tour Time: 6.50 hours
+Safety Score: 0.00
+
+Route: ButlerGulch
+Distance: 4.50 miles
+Elevation Gain: 1800 feet
+Difficulty: Moderate
+Snow Depth: 55 inches
+Avalanche Risk: 2
+Weather: Sunny
+Estimated Tour Time: 4.05 hours
+Safety Score: 0.75
+
+Route: JonesPass
+Distance: 7.50 miles
+Elevation Gain: 2800 feet
+Difficulty: Hard
+Snow Depth: 35 inches
+Avalanche Risk: 3
+Weather: Cloudy
+Estimated Tour Time: 6.55 hours
+Safety Score: 0.35
+
+Route: HiddenValley
+Distance: 3.20 miles
+Elevation Gain: 900 feet
+Difficulty: Easy
+Snow Depth: 70 inches
+Avalanche Risk: 1
+Weather: Sunny
+Estimated Tour Time: 2.50 hours
+Safety Score: 1.00
+
+Route: MayflowerGulch
+Distance: 5.00 miles
+Elevation Gain: 1500 feet
+Difficulty: Moderate
+Snow Depth: 65 inches
+Avalanche Risk: 2
+Weather: Snow
+Estimated Tour Time: 4.00 hours
+Safety Score: 0.60
+
+Route: IndependencePeak
+Distance: 6.80 miles
+Elevation Gain: 2700 feet
+Difficulty: Moderate
+Snow Depth: 48 inches
+Avalanche Risk: 3
+Weather: Cloudy
+Estimated Tour Time: 6.10 hours
+Safety Score: 0.50
+
+Route: HermanGulch
+Distance: 6.00 miles
+Elevation Gain: 2100 feet
+Difficulty: Moderate
+Snow Depth: 52 inches
+Avalanche Risk: 2
+Weather: Sunny
+Estimated Tour Time: 5.10 hours
+Safety Score: 0.75
+
+Route: EldoraMountain
+Distance: 4.00 miles
+Elevation Gain: 1400 feet
+Difficulty: Easy
+Snow Depth: 58 inches
+Avalanche Risk: 1
+Weather: Sunny
+Estimated Tour Time: 3.40 hours
+Safety Score: 1.00
+
+Route: MountSniktau
+Distance: 5.50 miles
+Elevation Gain: 2300 feet
+Difficulty: Moderate
+Snow Depth: 42 inches
+Avalanche Risk: 3
+Weather: Windy
+Estimated Tour Time: 5.05 hours
+Safety Score: 0.25
+
+Route: DeadDogCouloir
+Distance: 7.20 miles
+Elevation Gain: 3000 feet
+Difficulty: Hard
+Snow Depth: 38 inches
+Avalanche Risk: 4
+Weather: Snow
+Estimated Tour Time: 6.60 hours
+Safety Score: 0.05
+
+Route: TorreysPeak
+Distance: 8.00 miles
+Elevation Gain: 3200 feet
+Difficulty: Hard
+Snow Depth: 45 inches
+Avalanche Risk: 3
+Weather: Cloudy
+Estimated Tour Time: 7.20 hours
+Safety Score: 0.45
+
+Route: StMarysGlacier
+Distance: 2.50 miles
+Elevation Gain: 800 feet
+Difficulty: Easy
+Snow Depth: 75 inches
+Avalanche Risk: 1
+Weather: Sunny
+Estimated Tour Time: 2.05 hours
+Safety Score: 1.00
+
+Route: BuffaloMountain
+Distance: 6.70 miles
+Elevation Gain: 2600 feet
+Difficulty: Hard
+Snow Depth: 47 inches
+Avalanche Risk: 3
+Weather: Windy
+Estimated Tour Time: 5.95 hours
+Safety Score: 0.30
+
+Route: HoosierPass
+Distance: 5.80 miles
+Elevation Gain: 1900 feet
+Difficulty: Moderate
+Snow Depth: 53 inches
+Avalanche Risk: 2
+Weather: Sunny
+Estimated Tour Time: 4.80 hours
+Safety Score: 0.75
+
+Route: UnevaPeak
+Distance: 7.30 miles
+Elevation Gain: 2800 feet
+Difficulty: Hard
+Snow Depth: 41 inches
+Avalanche Risk: 4
+Weather: Snow
+Estimated Tour Time: 6.45 hours
+Safety Score: 0.05
+
+Route: ShrinePass
+Distance: 4.30 miles
+Elevation Gain: 1200 feet
+Difficulty: Easy
+Snow Depth: 62 inches
+Avalanche Risk: 1
+Weather: Sunny
+Estimated Tour Time: 3.35 hours
+Safety Score: 1.00
+
+Route: VailPass
+Distance: 6.10 miles
+Elevation Gain: 2000 feet
+Difficulty: Moderate
+Snow Depth: 57 inches
+Avalanche Risk: 2
+Weather: Cloudy
+Estimated Tour Time: 5.05 hours
+Safety Score: 0.70
+
