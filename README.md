@@ -1,6 +1,6 @@
 # Backcountry Ski Route Recommendation System
 
-[Code File](https://github.com/carstenkirkland/BaseConverter-andCalculator/blob/main/code.py)  
+[main.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/main.cpp)  
 [Example Result File](https://github.com/carstenkirkland/BaseConverter-andCalculator/blob/main/results.txt)
 
 ## Description
