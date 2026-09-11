@@ -3,7 +3,7 @@
 [main.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/main.cpp)  
 [route.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/route.cpp)
 [route.h](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/route.h)
-[route.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/route.cpp)
+[Makefile](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/Makefile)
 [route.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/route.cpp)
 [route.cpp](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/route.cpp)
 
