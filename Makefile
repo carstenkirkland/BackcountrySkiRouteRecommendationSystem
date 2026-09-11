@@ -1,6 +1,3 @@
-# COMMENTS BEGIN WITH A HASH
-
-# THE NAME OF YOUR PROJECT
 PROJECT = Final
 # ALL CPP COMPILABLE IMPLEMENTATION FILES THAT MAKE UP THE PROJECT
 SRC_FILES = main.cpp route.cpp
@@ -8,10 +5,9 @@ SRC_FILES = main.cpp route.cpp
 H_FILES = route.h
 # ANY OTHER RESOURCES FILES THAT ARE PART OF THE PROJECT
 REZ_FILES = routes.txt final.txt
-# YOUR USERNAME
-USERNAME = carsten_kirkland
 
-# NO EDITS BELOW THIS LINE
+
+
 CXX = g++
 CXXFLAGS_DEBUG = -g
 CXXFLAGS_WARN = -Wall -Wextra -Wconversion -Wdouble-promotion -Wunreachable-code -Wshadow -Wpedantic
