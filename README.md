@@ -1,5 +1,8 @@
 # Backcountry Ski Route Recommendation System
 
+[Code File](https://github.com/carstenkirkland/BaseConverter-andCalculator/blob/main/code.py)  
+[Example Result File](https://github.com/carstenkirkland/BaseConverter-andCalculator/blob/main/results.txt)
+
 ## Description
 
 This C++ program helps backcountry skiers evaluate and compare potential ski tours based on route characteristics and conditions such as distance, elevation gain, difficulty, snow depth, avalanche risk, and weather.
