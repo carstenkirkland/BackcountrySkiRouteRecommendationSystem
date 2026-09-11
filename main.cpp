@@ -1,6 +1,5 @@
 // Carsten Kirkland
 // Final Project CSCI 200 - Backcountry Ski Planner
-// Rest of info can be found in final.txt
 
 
 
